@@ -1,3 +1,5 @@
 first git filter
 hello b1
 hello master
+hello 123456
+hello abcdef
